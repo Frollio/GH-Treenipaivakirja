@@ -1,6 +1,7 @@
 Treenipäiväkirja
 ======
 
-(The application is developed for Finnish users so this document is also in Finnish.)
-
-Treenipäiväkirja on urheilijoille suunnattu verkossa käytettävä sovellus, jonne käyttäjät voivat tallentaa treenituloksiaan.
+* This application is based on Miguel Grinberg's Flasky application.
+* Treenipäiväkirja means training diary.
+* This was my second project on the web programming course.
+* Treenipäiväkirja let powerlifters to record their training results.
